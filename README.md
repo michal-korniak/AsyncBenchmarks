@@ -1,7 +1,7 @@
-# Output
+# Fibonacci benchmark
 
-Fibonacci benchmark
 Fibonacci number to be calculated: 7
+
 Number of retries: 1000
 
 * Sync benchmark: 0,1657 ms
@@ -11,8 +11,10 @@ Number of retries: 1000
 
 _______________________________
 
-Sigma benchmark
+# Sigma benchmark
+
 Sigma number to be calculated: 10000
+
 Number of retries: 10000
 
 * Sync benchmark: 78,4899 ms
