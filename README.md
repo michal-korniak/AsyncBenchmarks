@@ -9,8 +9,6 @@ Number of retries: 1000
 * Task.Yield() benchmark: 1036,2944 ms
 * Task.Run() benchmark: 1562,6824 ms
 
-_______________________________
-
 # Sigma benchmark
 
 Sigma number to be calculated: 10000
